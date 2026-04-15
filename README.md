@@ -12,13 +12,7 @@ date.getDbDate();
 * Getting database formatted date
 
 # Installation
-
-Copy library file file into project's directory ```lib/``` and write
-```
-npm install --save lib/Validation
-```
-Or just copy  ```"logger": "file:lib/Validation"``` into ```package.json``` file of project and type
-```
+```bash
 npm install
 ```
 # Examples
