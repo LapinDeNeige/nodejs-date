@@ -12,6 +12,10 @@ date.getDbDate();
 * Getting database formatted date
 
 # Installation
+1) Copy library file file into yours project's directory ```lib/``` 
+
+2) Copy ``` "date": "file:lib/date"``` into ```package.json``` file of project and type
+
 ```bash
 npm install
 ```
